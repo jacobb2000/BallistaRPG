@@ -59,11 +59,11 @@ public class Nodes : MonoBehaviour
 
     void Update()
     {
-        int j = 0;
+        /*int j = 0;
         foreach (Vector3 link in links)
         {
-            //Debug.DrawLine(fromposition[j], fromposition[j] + link, Color.red);
-            //j++;
-        }
+            Debug.DrawLine(fromposition[j], fromposition[j] + link, Color.red);
+            j++;
+        }*/
     }
 }
