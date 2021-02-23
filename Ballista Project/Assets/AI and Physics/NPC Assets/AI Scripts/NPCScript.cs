@@ -24,6 +24,7 @@ public class NPCScript : MonoBehaviour
         //i = Random.Range(0, nodes.nodes.Length);
     }
 
+
     public float timer;
 
     private void Moving()
